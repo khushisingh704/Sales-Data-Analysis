@@ -1,9 +1,4 @@
-                          ![SalesGif](https://github.com/user-attachments/assets/40c56c6d-fc83-4bbf-b716-81d95c0144f6)
-
-
-
-
-
+                         ![SalesGif](https://github.com/user-attachments/assets/5724c0b2-68dc-4c9b-8e90-b6661abeb971)
 
 
 
