@@ -1,4 +1,4 @@
-                         ![SalesGif](https://github.com/user-attachments/assets/5724c0b2-68dc-4c9b-8e90-b6661abeb971)
+                         ![SalesGif](https://github.com/user-attachments/assets/8bb998b2-3f5b-44ec-b0a8-0078863bb70f)
 
 
 
