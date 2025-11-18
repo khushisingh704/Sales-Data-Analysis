@@ -25,6 +25,7 @@
   <li><a href="#power-bi-dax-measures">Power BI DAX Measures</a></li>
   <li><a href="#folder-structure">Recommended Folder Structure</a></li>
   <li><a href="#conclusion">Conclusion</a></li>
+  <li><a href="Key Insights & Questions Answered"></li>
 </ul>
 
 <hr/>
@@ -205,20 +206,102 @@ AVERAGE('QA -DATA FOR EZINSIGHTS (1)'[Total Sales])</code></pre>
 
 <hr/>
 
+<h2 id="key-insights"> Key Insights & Questions Answered</h2>
+<p>
+With the  Power BI dashboards, the project can answer a wide range of business questions across Sales, SKU activity, Spare Parts, Vendors, Warranty, Defects and Complaints.  
+Below is a complete list of the insights unfolded from this analytics solution.
+</p>
+
+<h3> 1. Sales & Performance Insights</h3>
+<ul>
+  <li><strong>Which month has the highest total sales?</strong></li>
+  <li><strong>Which city (Agra, Ahmedabad, Bangalore) contributes the most?</strong></li>
+  <li><strong>Which product subcategories drive the highest revenue?</strong></li>
+  <li><strong>Year-over-year growth rate in sales</strong></li>
+  <li><strong>Total sales distribution across different customer types</strong></li>
+  <li><strong>Quantity sold trend across months</strong></li>
+  <li><strong>Average sales amount (SaleAverage DAX)</strong></li>
+</ul>
+
+<h3> 2. Customer Insights</h3>
+<ul>
+  <li><strong>Which customer type makes the most purchases?</strong> (Dealer, Dealer for Customer, End User)</li>
+  <li><strong>Top cities by customer type activity</strong></li>
+  <li><strong>Customer type with highest complaint count</strong></li>
+  <li><strong>Number of Dealer complaints</strong> (Dealer Count DAX)</li>
+  <li><strong>Patterns of customer complaints by SKU</strong></li>
+</ul>
+
+<h3> 3. SKU & Product Insights</h3>
+<ul>
+  <li><strong>Top-performing SKUs</strong> based on total sales</li>
+  <li><strong>Bottom-performing SKUs</strong> based on low sales</li>
+  <li><strong>Active SKUs vs Phased Out SKUs</strong></li>
+  <li><strong>Total number of non-active products</strong> (via DAX measure)</li>
+  <li><strong>Warranty months distribution by product type</strong></li>
+  <li><strong>Which products face the highest complaint rate?</strong></li>
+  <li><strong>Which products have the longest complaint resolution time?</strong></li>
+</ul>
+
+<h3>📍 4. Spare Parts & Defect Insights</h3>
+<ul>
+  <li><strong>Top product subcategories receiving maximum spare-part calls</strong></li>
+  <li><strong>Non-spare part calls trend across products</strong></li>
+  <li><strong>Primary, secondary and tertiary defect breakdown</strong></li>
+  <li><strong>Recurring product issues by product type</strong></li>
+  <li><strong>Products most prone to physical or warranty-related defects</strong></li>
+  <li><strong>Complaint days analysis (time taken before customer complains)</strong></li>
+</ul>
+
+<h3> 5. Vendor Performance Insights</h3>
+<ul>
+  <li><strong>Which vendors supply the highest product quantity?</strong></li>
+  <li><strong>Vendor-wise month-to-month supply trends</strong></li>
+  <li><strong>Which vendors show a fall or rise in supply volume?</strong></li>
+  <li><strong>Vendor contribution heatmap (quantity by vendor & month)</strong></li>
+  <li><strong>Vendors with top complaint counts or product issues</strong></li>
+</ul>
+
+<h3> 6. Warranty & Complaint Insights</h3>
+<ul>
+  <li><strong>Total complaints from Indian products vs Imported products</strong> (Complaint Diff DAX)</li>
+  <li><strong>Which category has more warranty-related problems?</strong></li>
+  <li><strong>Warranty months vs complaint occurrence correlation</strong></li>
+  <li><strong>Which product subcategories see complaint spikes after warranty expiry?</strong></li>
+  <li><strong>Which customer segments generate the most warranty complaints?</strong></li>
+</ul>
+
+<h3> 7. Summary-Level Insights</h3>
+<ul>
+  <li><strong>Overall business performance across SKUs, vendors, and customers</strong></li>
+  <li><strong>Total sales, total count, total complaints, and their year-wise trends</strong></li>
+  <li><strong>Top 5 product subcategories driving business</strong></li>
+  <li><strong>Top cities performing across all metrics</strong></li>
+  <li><strong>End-to-end overview of operational and commercial health of EZ Data Munch</strong></li>
+</ul>
+
+<h3> What This Means for Stakeholders</h3>
+<ul>
+  <li><strong>Management</strong> can quickly identify business growth areas and risk zones.</li>
+  <li><strong>Operations teams</strong> can track where product complaints are rising.</li>
+  <li><strong>Warranty teams</strong> can understand complaint patterns vs warranty duration.</li>
+  <li><strong>Sales teams</strong> can identify top-performing cities and products.</li>
+  <li><strong>Vendor management</strong> can evaluate which suppliers are reliable.</li>
+</ul>
+
+<p><strong>In short, this project gives a 360° data-driven view of Sales, Products, Vendors, Customers, and Warranty operations.</strong></p>
+
+<hr/>
+
+<hr/>
+
 <h2 id="conclusion">Conclusion</h2>
 <p>
-  The EZ Data Munch project combines SQL analytics with Power BI dashboards to produce actionable insights on product performance, spare parts & complaint behavior, vendor supply patterns, warranty-impact and customer segmentation.
+  The EZ Data Munch project with Power BI dashboards to produce actionable insights on product performance, spare parts & complaint behavior, vendor supply patterns, warranty-impact and customer segmentation.
   These outputs enable operations, sales and warranty teams to make data-driven decisions.
 </p>
 
 <hr/>
-
-<p><strong>Next steps</strong> — I can:</p>
-<ul>
-  <li>Embed the final dashboard images into the repo assets and update <code>src</code> paths</li>
-  <li>Generate a PDF export of this README</li>
-  <li>Produce a short LinkedIn/portfolio summary or resume bullet points</li>
-</ul>
 
 <p align="center">— End of README —</p>
 
