@@ -25,7 +25,7 @@
   <li><a href="#power-bi-dax-measures">Power BI DAX Measures</a></li>
   <li><a href="#folder-structure">Recommended Folder Structure</a></li>
   <li><a href="#conclusion">Conclusion</a></li>
-  <li><a href="Key Insights & Questions Answered"></li>
+  <li><a href="key-insights">Key Insights & Questions Answered</li>
 </ul>
 
 <hr/>
