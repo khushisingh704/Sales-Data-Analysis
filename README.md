@@ -96,11 +96,13 @@
 
 <h3>4) Complaint Dashboard <small>(screenshot pending)</small></h3>
 <p><strong>Visuals expected:</strong> Complaint counts by product, imported vs India complaints, complaint days distribution, customer-type complaints, warranty vs complaint submission trend.</p>
+<p><img alt="Complaint Dashboard" src="assets/complaint_dashboard.png" style="max-width:100%;border:1px solid #ddd;padding:6px" /></p>
 
 <hr/>
 
 <h3>5) Summary Dashboard <small>(screenshot pending)</small></h3>
 <p>Overall project summary: top KPIs, aggregated trends, top products/vendors/customers, and high-level alerts.</p>
+<p><img alt="Summary Dashboard" src="assets/summary_dashboard.png" style="max-width:100%;border:1px solid #ddd;padding:6px" /></p>
 
 <hr/>
 
