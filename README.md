@@ -2,6 +2,7 @@
 <h1 align="center">EZ Data Munch – Sales, Spare Parts & Vendor Analytics (SQL + Power BI Project)</h1>
 
 <p align="center">
+ <strong> Dataset provided by EZ Data Munch for learning and analysis during my B.E. final-semester internship. </strong><br/>
   <strong>SQL analysis + Power BI dashboards</strong><br/>
   Transactional, warranty & complaint analytics for EZ Data Munch
 </p>
